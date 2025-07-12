@@ -3,7 +3,7 @@ Beginner Python exercises from my learning journey (FreeCodeCamp + self-practice
 # Python Basics – Day 1 Practice
 This repository contains beginner-level Python exercises I'm working on as part of my learning journey. I'm currently learning Python using the [freeCodeCamp](https://www.freecodecamp.org/) course and solving small practice problems daily to build my skills step-by-step.
 
-## 📁 File Included
+## 📁 Link to file is https://github.com/vipanjot8/Python-Basics-Vipanjot/blob/main/day1_python_practice.py 
 
 - **`day1_python_practice.py`**  
   A collection of small Python programs that use:
